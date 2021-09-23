@@ -1,0 +1,130 @@
+* {
+    margin-top: 0.5%;
+    padding: 0px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    height: 80px;
+    text-align: center;
+}
+
+footer p {
+    padding-top: 2%;
+    font-size: 20px;
+}
+
+div {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+}
+
+.cuadrosflex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.personajesflex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.Characters {
+    width: 25%;
+    margin: 4%;
+    border: 2px white solid;
+    border-radius: 5px; 
+    text-align: center;
+}
+
+.Characters img{
+    width: 70%;
+    height: 70%;
+    border-radius: 3%;
+}
+
+.título h3{
+    color: gray;
+    font-size: 65px;    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 2.5%;
+    padding-top: 2%;
+    padding-bottom: 0.5;
+    text-align: center;
+}
+
+
+.título h5{
+    color: white;
+    font-size: 23px;
+    font-family:monospace;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+
+
+    .título h4{
+        color: gray;
+        font-size: 60px;    
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin-bottom: 2.5%;
+        padding-top: 3%;
+        padding-bottom: 0.5;
+        text-align: center;
+}
+h6{
+    color: red;
+    font-size: 55px;    
+    font-family:'Courier New', Courier, monospace;
+    margin-bottom: 2.5%;
+    padding-top: 3%;
+    padding-bottom: 0.5;
+    text-align: center;
+}
+
+.título img{
+margin-left: 22%;
+margin-right: 25%;
+margin-top: 1%;
+margin-bottom: 2%;
+padding: 1%;
+border: 10px red dotted;
+}
+
+.Eldia h5{
+    color: white;
+    font-size: 23px;
+    font-family:monospace;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+
+.Eldia img{
+    margin-left: 22%;
+    margin-right: 25%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    padding: 1%;
+    border: 10px wheat double;
+}
+
+.Marley h5{
+    color: white;
+    font-size: 23px;
+    font-family:monospace;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+
+
+.Marley img{
+    margin-left: 22%;
+    margin-right: 25%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    padding: 1%;
+    border: 10px wheat double;
+}

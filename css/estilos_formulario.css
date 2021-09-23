@@ -1,0 +1,49 @@
+
+.título h3{
+    color: gray;
+    font-size: 60px;    
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 5%;
+    padding-top: 3%;
+    padding-bottom: 0.5;
+    text-align: center;
+}
+    .intro h5{
+    color: white;
+    font-size: 35px;
+    font-family:monospace;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+}
+
+.formulario form{
+    color: white;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20%;
+    margin-right: 20%;
+    border: 7px gray outset;
+    padding: 2%;
+    text-align: center;
+}
+
+.formulario h1{
+    color: red;
+    font-size: 55px;
+    font-family: monospace;
+}
+
+.formulario input{
+    color: black;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 2%;
+    text-align: center;
+}
+
+.formulario p{
+    color: gold;
+}
